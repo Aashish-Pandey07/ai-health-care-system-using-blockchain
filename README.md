@@ -114,6 +114,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name -Aashish Pandey
 
-Project Link:
+Project Link: https://github.com/Aashish-Pandey07/ai-health-care-system-using-blockchain
 
  
